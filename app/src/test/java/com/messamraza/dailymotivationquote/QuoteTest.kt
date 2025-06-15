@@ -1,5 +1,6 @@
 package com.messamraza.dailymotivationquote
 
+import com.messamraza.dailymotivationquote.data.Quote
 import org.junit.Assert.*
 import org.junit.Test
 

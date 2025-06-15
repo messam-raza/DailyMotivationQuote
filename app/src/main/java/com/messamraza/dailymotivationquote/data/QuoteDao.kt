@@ -1,4 +1,4 @@
-package com.messamraza.dailymotivationquote
+package com.messamraza.dailymotivationquote.data
 
 import androidx.room.Dao
 import androidx.room.Insert

@@ -1,6 +1,9 @@
 package com.messamraza.dailymotivationquote
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
+import com.messamraza.dailymotivationquote.data.Quote
+import com.messamraza.dailymotivationquote.repository.QuoteRepository
+import com.messamraza.dailymotivationquote.viewmodel.QuoteViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.first

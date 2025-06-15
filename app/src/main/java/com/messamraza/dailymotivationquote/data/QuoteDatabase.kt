@@ -1,4 +1,4 @@
-package com.messamraza.dailymotivationquote
+package com.messamraza.dailymotivationquote.data
 
 import android.content.Context
 import androidx.room.Database

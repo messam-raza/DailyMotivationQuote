@@ -1,5 +1,8 @@
 package com.messamraza.dailymotivationquote
 
+import com.messamraza.dailymotivationquote.data.Quote
+import com.messamraza.dailymotivationquote.data.QuoteDao
+import com.messamraza.dailymotivationquote.repository.QuoteRepository
 import kotlinx.coroutines.test.runTest
 import org.junit.Assert.*
 import org.junit.Before

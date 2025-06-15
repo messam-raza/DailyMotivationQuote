@@ -1,8 +1,10 @@
-package com.messamraza.dailymotivationquote
+package com.messamraza.dailymotivationquote.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
+import com.messamraza.dailymotivationquote.data.Quote
+import com.messamraza.dailymotivationquote.repository.QuoteRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

@@ -1,4 +1,7 @@
-package com.messamraza.dailymotivationquote
+package com.messamraza.dailymotivationquote.repository
+
+import com.messamraza.dailymotivationquote.data.Quote
+import com.messamraza.dailymotivationquote.data.QuoteDao
 
 class QuoteRepository(private val quoteDao: QuoteDao) {
 
