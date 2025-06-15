@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DailyMotivationQuote" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <style name="Theme.DailyMotivationQuote" parent="Base.Theme.DailyMotivationQuote" />
+</resources>
